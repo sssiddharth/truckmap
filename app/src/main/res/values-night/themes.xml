@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TruckMap" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColorPrimary">@color/title_color</item>
+        <item name="colorControlNormal">@color/title_color</item>
+        <item name="android:windowBackground">@mipmap/parttern_bg</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+</resources>
